@@ -1,3 +1,6 @@
 To play, type:   python pacman.py
+To play with the custom AI, type: python pacman.py -l smallClassic -p ExpectimaxAgent -a evalFn=better -q -n X -c {replace X with number of games to test on}
 For help, type:  python pacman.py -h
 See http://inst.eecs.berkeley.edu/~cs188 for more information.
+
+Average score achieved: 1705. Win rate: 85%. Rank in CS221 class against other students: 35/300.
